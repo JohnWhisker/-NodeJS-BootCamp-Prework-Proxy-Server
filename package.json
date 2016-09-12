@@ -1,0 +1,15 @@
+{
+  "name": "prework",
+  "version": "1.0.0",
+  "description": "prework for Node JS Coderschool",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -- index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.74.0",
+    "yargs": "^3.32.0"
+  }
+}
